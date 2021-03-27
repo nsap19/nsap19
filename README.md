@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **nsap19/nsap19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hyemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsap19&show_icons=true&theme=radical)
+![Hyemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsap19&show_icons=true&theme=dracula)
