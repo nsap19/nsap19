@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Hyemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsap19&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsap19&layout=compact&hide=php,javascript&&langs_count=6&exclude_repo=2019_savers)](https://github.com/nsap19)
+
