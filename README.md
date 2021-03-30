@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Bootstap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
+<br/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"/></a>&nbsp 
@@ -21,9 +22,10 @@
 </p>
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=nsap19&show_icons=true&theme=dracula" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsap19&layout=compact&hide=php,javascript&&langs_count=6&exclude_repo=2019_savers" width="42%"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nsap19&show_icons=true&theme=dracula" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsap19&layout=compact&hide=php,javascript&&langs_count=6&exclude_repo=2019_savers" width="40%"/>
+</div>
 
 <!-- ### Hi there 👋 -->
 
